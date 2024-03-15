@@ -7,7 +7,6 @@ C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\bin\Debug\net5.0\Dutch
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\bin\Debug\net5.0\DutchCore.dll
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\bin\Debug\net5.0\ref\DutchCore.dll
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\bin\Debug\net5.0\DutchCore.pdb
-C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.csproj.AssemblyReference.cache
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.AssemblyInfoInputs.cache
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.AssemblyInfo.cs
@@ -21,3 +20,5 @@ C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\Dutch
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\ref\DutchCore.dll
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.pdb
 C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.genruntimeconfig.cache
+C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\bin\Debug\net5.0\libman.json
+C:\Users\kirej\OneDrive\Desktop\PROGRAMING\.NET\DutchCore\obj\Debug\net5.0\DutchCore.csproj.AssemblyReference.cache
