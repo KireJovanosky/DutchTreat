@@ -1,14 +1,10 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Dutch Treat</title>
-    <link href="css/site.css" rel="stylesheet" />
-</head>
-<body>
-    <h2>Dutch Treat</h2>
+﻿@page
+@model DutchCore.Controllers.Views.App.IndexModel
+@{
+    ViewBag.Title = "Home Page";
+}
     <div class="product-info">
-        <img src="img/VanGogh.jpg" />
+        <img src="~/img/VanGogh.jpg" />
         <h3>Mug</h3>
         <ul class="product-props">
             <li>Price: $9.99</li>
@@ -62,7 +58,4 @@
         </form>
     </div>
 
-    <script src="lib/jquery/dist/jquery.min.js"></script>
-    <script src="js/index.js"></script>
-</body>
-</html>
+    
